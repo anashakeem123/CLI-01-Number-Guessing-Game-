@@ -1,0 +1,20 @@
+{
+  "name": "cli-01-number-guessing-game",
+  "version": "2.0.1",
+  "description": "This is a cli guessing number game Typescript And Node.js/inquirer",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anas Hakeem",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
